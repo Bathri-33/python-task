@@ -1,4 +1,4 @@
-#1. find key
+'''#1. find key
 def stars(**a):
     for a in a.keys():
         print("key value",a)
@@ -16,7 +16,7 @@ def add(**a):
     for i in a.values():
         sum+=i
         print("sum is:",sum)
-add(a=12,b=34,c=56)
+add(a=12,b=34,c=56)'''
 
 #4 print even numbers
 def bad(*a):
@@ -26,7 +26,7 @@ def bad(*a):
             print("the even nmbers are:",i,"/n")
 bad(12,34,23,45) 
 
-#5
+'''#5
 def perfect_number(*a):
     for n in a:
         sum1=0
@@ -90,4 +90,4 @@ def count_string(a):
     print("Consonants:", c)
     print("Special Characters:", s)
 
-count_string("Hello@123")
+count_string("Hello@123")'''
