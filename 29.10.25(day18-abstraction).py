@@ -1,4 +1,4 @@
-'''#1
+#1
 from abc import ABC,abstractmethod
 
 class animal(ABC):
@@ -23,7 +23,7 @@ leo.sound()
 puli.sound()
 
 
-print("\n________****2****______\n")'''
+print("\n________****2****______\n")
 
 
 #2
@@ -77,7 +77,7 @@ print("Triangle Perimeter:", triangle.calculatemeter())
 print("\n________****3****______\n")
 
 
-'''#3
+#3
 from abc import ABC, abstractmethod
 import math
 
@@ -119,5 +119,5 @@ sphere = Sphere(3)
 
 print("Cylinder Volume:", cylinder.volume())
 print("Cone Volume:", cone.volume())
-print("Sphere Volume:", sphere.volume())'''
+print("Sphere Volume:", sphere.volume())                                                                                                      
 

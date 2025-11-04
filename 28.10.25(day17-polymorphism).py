@@ -1,4 +1,4 @@
-'''# 1
+# 1
 
 class complexno:
     def __init__(self, real, imag):
@@ -52,7 +52,7 @@ a1.make_sound()
 a2.make_sound()
 
 
-print("\n________****4****_________\n")'''
+print("\n________****4****_________\n")
 
 
 #4
